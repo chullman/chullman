@@ -9,7 +9,7 @@ Becoming a professional junior full-stack web developer!
 
 ## 🌱 I’m currently learning:
 
-Full-stack web development, continuing on my graduation from an accredited and valued coding bootcamp.
+Full-stack web development, continuing on and upskilling from my prior graduation from an accredited and valued coding bootcamp.
 
 ## 👩‍💻 Interested in my GitHub repos?
 
